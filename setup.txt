@@ -1,0 +1,10 @@
+我的cordova环境（windows）安装步骤
+
+1、install nodejs/iojs
+2、install jdk 1.7 or later
+3、run: npm install -g cordova
+4、download android-sdk-windows
+5、run SDK Manager.exe 
+6、set PATH: ;D:\PATH\TO\ADT\platform-tools;D:\PATH\TO\ADT\tools;
+7、cordova create hello com.example.hello HelloWorld
+8、install ant or gradle and set path
